@@ -4,9 +4,3 @@ body {
   align-items: center;
   justify-content: center;
 }
-.box {
-  width: 10%;
-  height: 10vh;
-  background-color: black;
-  align-self: center;
-}
